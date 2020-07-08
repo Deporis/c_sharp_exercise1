@@ -64,9 +64,8 @@ namespace Exercises
         {
             const int initialYear = 1948;
             int everyLeapyear = 4;
-
             int contLeapyear = 0;
-
+            
             Console.WriteLine("\nAquests són tots els any de traspàs entre el 1948 i la teva data de naixement:\n");
 
             for ( int i = initialYear; i <= Any; i++)
