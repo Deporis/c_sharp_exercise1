@@ -1,0 +1,12 @@
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/bin/Debug/netcoreapp3.1/Exercises.deps.json
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/bin/Debug/netcoreapp3.1/Exercises.runtimeconfig.json
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/bin/Debug/netcoreapp3.1/Exercises.runtimeconfig.dev.json
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/bin/Debug/netcoreapp3.1/Exercises.dll
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/bin/Debug/netcoreapp3.1/Exercises.pdb
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/obj/Debug/netcoreapp3.1/Exercises.csprojAssemblyReference.cache
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/obj/Debug/netcoreapp3.1/Exercises.AssemblyInfoInputs.cache
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/obj/Debug/netcoreapp3.1/Exercises.AssemblyInfo.cs
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/obj/Debug/netcoreapp3.1/Exercises.csproj.CoreCompileInputs.cache
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/obj/Debug/netcoreapp3.1/Exercises.dll
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/obj/Debug/netcoreapp3.1/Exercises.pdb
+/Users/alfred/Desktop/IT_Academy/CSHARP/Exercises/obj/Debug/netcoreapp3.1/Exercises.genruntimeconfig.cache
